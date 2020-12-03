@@ -13,6 +13,8 @@
    Using this inplace approach, the time complexity remains the same O(N^2),
    but the space complexity reduce to O(1).
 
+   PS: Pay attention on the center cell inside odd side square.
+
 */
 
 #include <iostream>
